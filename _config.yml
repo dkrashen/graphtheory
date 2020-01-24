@@ -1,0 +1,27 @@
+testing: true
+
+# Site settings
+# Course Info
+title: "Graph Theory"
+email: "&#x64;&#x61;&#x6e;&#x69;&#x65;&#x6c;&period;&#x6b;&#x72;&#x61;&#x73;&#x68;&#x65;&#x6e;&commat;&#x72;&#x75;&#x74;&#x67;&#x65;&#x72;&#x73;&period;&#x65;&#x64;&#x75;"
+tagline: "Rutgers MATH 428, Spring 2020."
+description: "Graph Theory"
+instructor: "Danny Krashen"
+instructor-email: "&#x64;&#x61;&#x6e;&#x69;&#x65;&#x6c;&period;&#x6b;&#x72;&#x61;&#x73;&#x68;&#x65;&#x6e;&commat;&#x72;&#x75;&#x74;&#x67;&#x65;&#x72;&#x73;&period;&#x65;&#x64;&#x75;"
+office: "Hill 220"
+office-hour: "Mon 2:30pm-3:30pm, Hill 220"
+lecture-schedule: "M/Th 8:40am - 10:00pm, 105 Tillet Hall"
+
+image_link: ""
+image_src: "http://upload.wikimedia.org/wikipedia/commons/4/4b/Ceraunus_Blue_%28Hemiargus_ceraunus%29_%287376863244%29.jpg"
+baseurl: "/graphtheory"
+
+# url: "localhost:4000"
+url: "http://dkrashen.org"
+
+#analytics_id: "UA-74503807-1"
+#analytics: "true"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
