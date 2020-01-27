@@ -1,2 +1,5 @@
 - title: "Lecture 1"
   description: "Introduction"
+- title: "Lecture 2"
+  description: "Definitions and basic notions"
+  filename: "lecture2.pdf"
