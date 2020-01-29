@@ -20,12 +20,12 @@ Topical lecture outline
 
 - Introduction, examples
 - Basic terminology, isomorphism, trails, paths, circuits, cycles, components
+- Eulerian tours, Hamiltonian cycles
 - Standard graph bestiary: trees, complete graphs, partite graphs
 - Variations: multigraphs, pseudographs, directed graphs
 - Degrees, degree formula, graphical sequences
 - Digression: planar graphs, Euler's equation, classification of Platonic solids (regular planar graphs)
 - Spanning trees, connectivity, Menger's Theorem
-- Eulerian tours, Hamiltonian cycles
 - Flows in directed graphs, max-flow/min-cut theorem
 - Vertex colorings, chromatic polynomials
 - Edge colorings, Vizing's theorem
@@ -37,4 +37,3 @@ Grading
 - 25%: Homework (weekly, due Thursdays)
 - 25% each: Midterm exams (tentative dates: Feb 27, April 16)
 - 15%: Final exam (either in class or project, to be decided)
-
