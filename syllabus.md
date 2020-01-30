@@ -8,7 +8,11 @@ Graph Theory, Rutgers Math 428, Spring 2020
 ---
 
 Instructor: Danny Krashen, Hill 220
-Office Hours: Wed 11-12/ Mon 2:30-3:30
+
+Office Hours: 
+
+- Mon 2:30-3:30
+- Wed 11:00-12:00
 
 References
 
