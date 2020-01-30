@@ -1,5 +1,9 @@
 - title: "Lecture 1"
-  description: "Introduction"
+  description: "Introduction."
 - title: "Lecture 2"
-  description: "Definitions and basic notions"
+  description: "Definitions and basic notions."
   filename: "lecture2.pdf"
+- title: "Lecture 3"
+  description: "The language of muligraphs and pseudographs. Eulerian tours and circuits, part 1."
+  filename: "lecture3.pdf"
+  
