@@ -6,4 +6,6 @@
 - title: "Lecture 3"
   description: "The language of muligraphs and pseudographs. Eulerian tours and circuits, part 1."
   filename: "lecture3.pdf"
-  
+- title: "Lecture 4"
+  description: "Eulerian tours and circuits, part 2."
+  filename: "lecture4.pdf"
