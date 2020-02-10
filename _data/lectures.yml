@@ -12,4 +12,7 @@
 - title: "Lecture 5"
   description: "Minimal paths and Dijkstra's algorithm."
   filename: "lecture5.pdf"
+- title: "Lecture 6"
+  description: "Trees."
+  filename: "lecture6.pdf"
   
