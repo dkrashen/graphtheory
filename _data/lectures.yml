@@ -15,4 +15,7 @@
 - title: "Lecture 6"
   description: "Trees."
   filename: "lecture6.pdf"
+- title: "Lecture 7"
+  description: "Minimal spanning trees: Kruskal and Prim."
+  filename: "lecture7.pdf"
   
