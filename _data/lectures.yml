@@ -24,3 +24,6 @@
 - title: "Lecture 9"
   description: "Graph theory introduction (Level 2). Cut vertices."
   filename: "lecture 9.pdf"
+- title: "Lecture 10"
+  description: "Characterizations of connectedness and separability"
+  filename: "lecture 10.pdf"
