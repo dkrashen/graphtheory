@@ -7,12 +7,8 @@ layout: default
 Graph Theory, Rutgers Math 428, Spring 2020
 ---
 
-Instructor: Danny Krashen, Hill 220
-
-Office Hours: 
-
-- Mon 2:30-3:30
-- Wed 11:00-12:00
+Instructor: Danny Krashen, daniel.krashen@gmail.com
+Office Hours: Wed 11-12/ Mon 2:30-3:30 (via WebEx)
 
 References
 
@@ -24,12 +20,12 @@ Topical lecture outline
 
 - Introduction, examples
 - Basic terminology, isomorphism, trails, paths, circuits, cycles, components
-- Eulerian tours, Hamiltonian cycles
 - Standard graph bestiary: trees, complete graphs, partite graphs
 - Variations: multigraphs, pseudographs, directed graphs
 - Degrees, degree formula, graphical sequences
 - Digression: planar graphs, Euler's equation, classification of Platonic solids (regular planar graphs)
 - Spanning trees, connectivity, Menger's Theorem
+- Eulerian tours, Hamiltonian cycles
 - Flows in directed graphs, max-flow/min-cut theorem
 - Vertex colorings, chromatic polynomials
 - Edge colorings, Vizing's theorem
@@ -37,7 +33,7 @@ Topical lecture outline
 
 Grading
 
-- 10%: In class worksheets (graded for completion)
+- 10%: Worksheets (graded for completion)
 - 25%: Homework (weekly, due Thursdays)
-- 25% each: Midterm exams (tentative dates: Feb 27, April 16)
-- 15%: Final exam (either in class or project, to be decided)
+- 25% each: Midterm exams (Feb 27, April 16 take-home exam, handed in online)
+- 15%: Final exam (take-home exam, handed in online)
