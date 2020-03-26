@@ -33,4 +33,6 @@
 - title: "Lecture 12"
   description: "Graphs and epidemiology. Review of blocks and equivalence relations"
   filename: "lecture12.pdf"
-  filename: "lecture11.pdf"
+- title: "Lecture 13"
+  description: "Separations, subdivisions and cycles"
+  filename: "lecture13.pdf"
