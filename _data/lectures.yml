@@ -63,4 +63,10 @@
 - title: "Lecture 19"
   description: "Graph Theory Introduction, Level 3"
   filename: "lecture19.pdf"
+- title: "pre-Lecture 20"
+  description: "Contraction-deletion and colorings"
+  filename: "pre-lecture20.pdf"
+- title: "Lecture 20"
+  description: "Contraction-deletion and colorings (slides)"
+  filename: "pre-lecture20-slides.pdf"
   
